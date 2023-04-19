@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hiserlab4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BFF22CC739D49A2A44990D91CD06591 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D590DFFDD504783AE106568B421D32B }}
           package: .
